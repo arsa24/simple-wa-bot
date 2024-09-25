@@ -1,6 +1,6 @@
 node_modules
 state
-/src/
+src
 config.ts
 main.ts
 dist/config.js
