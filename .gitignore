@@ -4,3 +4,4 @@ state
 config.ts
 main.ts
 dist/config.js
+!/dist/src/
